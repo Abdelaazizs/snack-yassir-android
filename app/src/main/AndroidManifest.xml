@@ -5,6 +5,8 @@
 
     <application
         android:label="SNACK YASSIR FOOD"
+        android:icon="@drawable/splash_logo"
+        android:roundIcon="@drawable/splash_logo"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
 
